@@ -58,7 +58,7 @@ pip install geopy
 - In Line 16 in `src/main/java/com/parkingmvc/GeoLocation/GeoLocationModel.java` change the absolute path of `GeoLocater.py` file
 
 ```java
-String command = "python /Users/adithya-ms/Desktop/ParkingSystemMVC/parkingsystemmvc/src/main/java/com/parkingmvc/GeoLocation/GeoLocater.py";
+String command = "python /Users/java-ms/Desktop/ParkingSystemMVC/parkingsystemmvc/src/main/java/com/parkingmvc/GeoLocation/GeoLocater.py";
 ```
 
 - Run the `app.java`
